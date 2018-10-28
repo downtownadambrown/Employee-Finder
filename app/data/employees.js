@@ -89,8 +89,8 @@ module.exports = [{
         2
     ]
 },{
-    "name"  : "Lady Gaga",
-    "photo" : "https://www.billboard.com/files/styles/article_main_image/public/media/lady-gaga-2018-smile-grammy-billboard-a-1548.jpg",
+    "name"  : "Beto O'Rourke",
+    "photo" : "https://i.amz.mshcdn.com/mNqsEl1_CQSBCCWdNRzX_UX9ByE=/fit-in/1200x9600/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F836595%2F16115b4c-4587-4022-bf80-7699f1406eb9.jpg",
     "scores": [
         4,
         4,
