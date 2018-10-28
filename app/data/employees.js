@@ -14,8 +14,8 @@ module.exports = [{
         1
     ]
 },{
-    "name"  : "Jack Bauer",
-    "photo" : "http://3.bp.blogspot.com/-ymakcxuHovo/UkOPnzZZsmI/AAAAAAAAKyM/9AZjwLG8v-M/s400/Kiefer+Sutherland+Drunk.jpg",
+    "name"  : "Steven",
+    "photo" : "https://i.redd.it/dn9j3jun3yu11.jpg",
     "scores": [
         1,
         2,
