@@ -10,3 +10,4 @@ The goal of this project was to build a compatibility-based "Employee Finder" ap
 - Node.js
 - Express.js
 - jQuery, AJAX
+- Heroku for deployment
