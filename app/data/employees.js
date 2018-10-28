@@ -58,4 +58,49 @@ module.exports = [{
         1,
         1
     ]
+},{
+    "name"  : "Meme Girl",
+    "photo" : "https://i.imgflip.com/dyi7z.jpg",
+    "scores": [
+        4,
+        2,
+        4,
+        2,
+        4,
+        2,
+        3,
+        3,
+        3,
+        3
+    ]
+},{
+    "name"  : "Alexandra Daddario",
+    "photo" : "https://www.pbh2.com/wordpress/wp-content/uploads/2016/09/hot-photos-of-alexandra-daddario.jpg",
+    "scores": [
+        2,
+        3,
+        2,
+        3,
+        4,
+        2,
+        3,
+        2,
+        4,
+        2
+    ]
+},{
+    "name"  : "Lady Gaga",
+    "photo" : "https://www.billboard.com/files/styles/article_main_image/public/media/lady-gaga-2018-smile-grammy-billboard-a-1548.jpg",
+    "scores": [
+        4,
+        4,
+        4,
+        3,
+        3,
+        4,
+        5,
+        4,
+        5,
+        2
+    ]
 }];
