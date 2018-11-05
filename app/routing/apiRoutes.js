@@ -18,13 +18,12 @@ module.exports = function (app) {
         };
 
         for (let i = 0; i < employees.length; i++) {
-            let currentDifferential = 0;
+
             const currentEmployeeScores = employees[i].scores;
             let differential = 0;
 
             for (let j = 0; j < currentEmployeeScores.length; j++) {
-                currentDifferential = currentEmployeeScores[j] - dataArray[j];
-                differential += Math.abs(currentDifferential);
+                differential += Math.abs(currentEmployeeScores[j] - dataArray[j]);
             }
 
             if (differential < closestMatch.total_difference){
